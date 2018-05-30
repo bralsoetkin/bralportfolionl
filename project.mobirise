@@ -2499,8 +2499,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/barbebleu4008-3.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/barbebleu4008-2.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2517,7 +2517,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/barbebleu5009.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
